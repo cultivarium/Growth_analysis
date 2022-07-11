@@ -1,0 +1,5 @@
+sample	wells
+1U	"A1, A2, A3"
+5U	"B1, B2, B3"
+10U	"C1, C2, C3"
+NC	"D1, D2, D3"
