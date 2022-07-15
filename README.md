@@ -36,3 +36,23 @@ All the graphics are saved as svg for easy editing in the '/results_experiment_f
 Each file created while running this code will include the experiment name:
 
     Example - 'results_experiment_filename/graphics/growth_curves_experiment_filename.svg
+
+
+Layout file structure example (tab delimited txt):
+
+blanks	wells
+NC_1U	"D1, D2, D3"
+NC_5U	"E1, E2, E3"
+NC_10U	"F1, F2, F3"
+\\\	
+samples	wells
+1U	"A1, A2, A3"
+5U	"B1, B2, B3"
+10U	"C1, C2, C3"
+\\\	
+conditions	title
+1U	A bit of secret sauce
+5U	More secret sauce
+10U	Plenty secret sauce
+\\\	
+
